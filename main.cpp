@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: fernando
+ * Author: Fernando Ambrosio
  *
  * Created on June 9, 2022, 11:22 AM
  */
